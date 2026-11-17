@@ -9,11 +9,7 @@
 
 ## Overview
 
-**FinGuard AI** is an end-to-end financial fraud detection and risk intelligence application designed to demonstrate how machine learning can support transaction monitoring, suspicious activity identification, and intelligent risk assessment.
-
-The platform integrates supervised machine learning algorithms with unsupervised anomaly detection to evaluate transaction behaviour, generate fraud probability scores, identify unusual patterns, and prioritise transactions for investigation.
-
-Built using Python and Streamlit, the application provides an interactive financial risk command centre with transaction monitoring, model evaluation, investigation workflows, and analytical visualisations.
+**FinGuard AI** is an end-to-end financial fraud detection and risk intelligence application designed to demonstrate how machine learning can support transaction monitoring, suspicious activity identification, and intelligent risk assessment. The platform integrates supervised machine learning algorithms with unsupervised anomaly detection to evaluate transaction behaviour, generate fraud probability scores, identify unusual patterns, and prioritise transactions for investigation. Built using Python and Streamlit, the application provides an interactive financial risk command centre with transaction monitoring, model evaluation, investigation workflows, and analytical visualisations.
 
 The project combines data engineering, predictive modelling, anomaly detection, and interactive dashboard development into a unified application.
 
@@ -510,7 +506,9 @@ Python · Machine Learning · Predictive Analytics · Anomaly Detection · Data 
 ## Designed & Developed By
 
 **Mohamed Riyaz S.**
+
 Integrated M.Tech CSE (Business Analytics)
+
 Vellore Institute of Technology(VIT), Chennai
 
 ---
