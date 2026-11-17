@@ -1,26 +1,13 @@
-# 🛡️ FinGuard AI
+# FinGuard AI
 ### Real-Time Financial Fraud Detection & Risk Intelligence Platform
 
 <p align="center">
 
 **An AI-powered financial security platform combining machine learning, anomaly detection, transaction risk scoring, and interactive analytics to demonstrate intelligent financial fraud monitoring.**
 
-</p>
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analytics-150458?logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-Visualization-3F4F75?logo=plotly&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
-</p>
-
 ---
 
-## 📌 Overview
+## Overview
 
 **FinGuard AI** is an end-to-end financial fraud detection and risk intelligence application designed to demonstrate how machine learning can support transaction monitoring, suspicious activity identification, and intelligent risk assessment.
 
@@ -34,7 +21,7 @@ The project combines data engineering, predictive modelling, anomaly detection, 
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Develop an end-to-end machine learning pipeline for financial fraud classification.
 - Implement supervised learning algorithms for transaction risk prediction.
@@ -47,7 +34,7 @@ The project combines data engineering, predictive modelling, anomaly detection, 
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 FinGuard AI follows a modular architecture consisting of data generation, preprocessing, predictive modelling, anomaly detection, risk evaluation, and dashboard presentation.
 
@@ -110,7 +97,7 @@ flowchart TD
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 
 ### 1. Executive Risk Overview
 
@@ -179,7 +166,7 @@ Explore the generated transaction dataset through:
 
 ---
 
-## 🤖 Machine Learning Methodology
+## Machine Learning Methodology
 
 FinGuard AI integrates two supervised classification algorithms and one unsupervised anomaly detection algorithm.
 
@@ -190,6 +177,7 @@ FinGuard AI integrates two supervised classification algorithms and one unsuperv
 A statistical classification algorithm used to estimate the probability of a transaction belonging to the fraudulent class.
 
 Purpose:
+
 - Establish a baseline classification model.
 - Estimate transaction fraud probabilities.
 - Provide a benchmark for model comparison.
@@ -199,6 +187,7 @@ Purpose:
 An ensemble learning algorithm that combines multiple decision trees to classify transaction patterns.
 
 Purpose:
+
 - Capture nonlinear relationships.
 - Identify complex transaction patterns.
 - Estimate fraud probabilities.
@@ -211,6 +200,7 @@ Purpose:
 An anomaly detection algorithm that identifies observations exhibiting unusual characteristics compared with the overall dataset.
 
 Purpose:
+
 - Identify unusual transaction patterns.
 - Detect potential behavioural irregularities.
 - Provide an additional anomaly signal for investigation.
@@ -223,7 +213,7 @@ Isolation Forest operates independently as an additional anomaly detection compo
 
 ---
 
-## 🧮 Transaction Risk Intelligence
+## Transaction Risk Intelligence
 
 The system combines supervised fraud probabilities and unsupervised anomaly signals to support transaction investigation.
 
@@ -257,7 +247,7 @@ The labels represent simulated decision-support outcomes, not actual payment aut
 
 ---
 
-## 📊 Dataset & Feature Engineering
+## Dataset & Feature Engineering
 
 The project generates a reproducible synthetic dataset containing **18,000 transaction records**.
 
@@ -295,7 +285,7 @@ Each record includes transaction characteristics, behavioural indicators, device
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 Fraud detection is an imbalanced classification problem. Consequently, accuracy alone is insufficient for evaluating model performance.
 
@@ -315,7 +305,7 @@ The evaluation process uses a stratified train-test split to preserve the class 
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Category | Technologies |
 |---|---|
@@ -331,7 +321,7 @@ The evaluation process uses a stratified train-test split to preserve the class 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 FinGuard-AI/
@@ -373,7 +363,7 @@ FinGuard-AI/
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
@@ -444,7 +434,7 @@ http://localhost:8501
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 FinGuard AI can be deployed as a publicly accessible Streamlit application using Render.
 
@@ -464,7 +454,7 @@ For detailed deployment instructions, refer to [DEPLOYMENT.md](DEPLOYMENT.md).
 
 ---
 
-## 🔐 Responsible Use & Limitations
+## Responsible Use & Limitations
 
 FinGuard AI is an educational machine learning project.
 
@@ -481,7 +471,7 @@ A production-oriented implementation would require representative authorised fin
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 Potential extensions include:
 
@@ -499,7 +489,7 @@ Potential extensions include:
 
 ---
 
-## 💼 Professional & Portfolio Highlights
+## Professional & Portfolio Highlights
 
 **Project:** FinGuard AI — Real-Time Financial Fraud Detection & Risk Intelligence Platform
 
@@ -517,13 +507,11 @@ Python · Machine Learning · Predictive Analytics · Anomaly Detection · Data 
 
 ---
 
-## 👨‍💻 Designed & Developed By
+## Designed & Developed By
 
 **Mohamed Riyaz S.**
-
-Integrated M.Tech CSE | Business Analytics
-
-Vellore Institute of Technology, Chennai
+Integrated M.Tech CSE (Business Analytics)
+Vellore Institute of Technology(VIT), Chennai
 
 ---
 
