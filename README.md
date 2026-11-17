@@ -503,13 +503,11 @@ Python · Machine Learning · Predictive Analytics · Anomaly Detection · Data 
 
 ---
 
-## Designed & Developed By
+## Author
 
-**Mohamed Riyaz S.**
-
-Integrated M.Tech CSE (Business Analytics)
-
-Vellore Institute of Technology(VIT), Chennai
+**Mohamed Riyaz S.**  
+Integrated M.Tech – Computer Science and Engineering (Business Analytics)  
+Vellore Institute of Technology (VIT), Chennai
 
 ---
 
